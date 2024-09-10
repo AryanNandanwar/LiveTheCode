@@ -6,7 +6,7 @@ from sklearn.model_selection import GridSearchCV
 
 # Load the dataset
 data = pd.read_csv("D:\\diagnosis_model\\heart.csv")
-
+#after load
 # Split the data into features (X) and target labels (y)
 X = data.drop("target", axis=1)
 y = data["target"]
