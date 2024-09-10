@@ -78,7 +78,7 @@ export const Card = ({ refe }) => {
                                     <h1 className="title-font text-lg font-medium text-gray-900 mb-3">Kidney Disease Diagnosis</h1>
                                     <p className="leading-relaxed mb-3">An advanced tool for predicting kidney disease risk by analyzing relevant health factors and providing early detection insights</p>
                                     <div className="flex items-center flex-wrap ">
-                                        <Link to="/kidney" className="text-[#3A8799] inline-flex items-center md:mb-2 lg:mb-0 hover:bg-opacity-[0.1] hover:text-black rounded-lg group hover:scale-110 duration-300 ">Diagnose Now
+                                        <Link to="https://chronickidneydiseas.streamlit.app/" className="text-[#3A8799] inline-flex items-center md:mb-2 lg:mb-0 hover:bg-opacity-[0.1] hover:text-black rounded-lg group hover:scale-110 duration-300 ">Diagnose Now
                                             <svg className="w-4 h-4 ml-2 group-hover:translate-x-3 duration-300 " viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" fill="none" strokeLinecap="round" strokeLinejoin="round" >
                                                 <path d="M5 12h14"></path>
                                                 <path d="M12 5l7 7-7 7"></path>
