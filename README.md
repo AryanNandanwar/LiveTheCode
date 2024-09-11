@@ -29,7 +29,7 @@ Follow these steps to set up and run Healthcare.AI:
    pip install flask flask_cors
 7. Run the application:
    python app.py
-8. Access the application via your browser at https://healthcare-ai-p5ax-evn8tf0lw-dev-spd.vercel.app/.
+8. cd frontend and npm start
 
 ## Features
 
