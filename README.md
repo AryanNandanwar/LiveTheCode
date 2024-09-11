@@ -33,7 +33,7 @@ Follow these steps to set up and run Healthcare.AI:
 
 ## Features
 
-- AI-assisted Medical Diagnostics
+- AI-assisted Medical Diagnostics(predict the risk of five major diseases—liver disease, CKD, heart disease, lung cancer, and diabetes.)
 - Fast and Accurate Disease Identification
 - User-Friendly Interface
 - Real-time Data Analysis
