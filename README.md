@@ -58,4 +58,8 @@ We welcome contributions from the community. To contribute to Healthcare.AI, fol
 4. Push to your branch: `git push origin feature-name`.
 5. Open a pull request.
 
+## App Demo
+
+Check out the video of our app: [Watch the Loom Video](https://www.loom.com/share/a5b4fea1c3674ac598a02609d71e07c8?sid=51ab47fd-0e2c-4922-9de1-9928f6686016)
+
 
